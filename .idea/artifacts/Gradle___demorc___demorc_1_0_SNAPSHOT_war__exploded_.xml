@@ -1,0 +1,46 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : demorc : demorc-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/demorc-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/demorc-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="demorc_main/web/Web Gradle : demorc-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="demorc_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.9.RELEASE/a186823724f03b98becd5f93b1fa107fe6f7a7ff/spring-context-4.3.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.9.RELEASE/ca80b4a00abc388d8046bf372099f35564371c47/spring-webmvc-4.3.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.2/74aca283cd4f4b4f3e425f5820cda58f44409547/jstl-1.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.10.Final/b46a4ba34b52d335cc45c0f33d029f782f7db887/hibernate-core-5.2.10.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-c3p0/5.2.10.Final/e98696f92ea8df4147a95fae9bab9093db294da/hibernate-c3p0-5.2.10.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.3.9.RELEASE/95f5f5cf3cae64266a89dc1bc9e0484425cd8358/spring-aop-4.3.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.9.RELEASE/daa5abf3779c8cad1a2910e1ea08e4272489d8ae/spring-beans-4.3.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.9.RELEASE/430b7298bfb85d66fb61e19ca8f06231b911e9f5/spring-core-4.3.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.3.9.RELEASE/4edca6913da9e62a6586714e053e01a61952a153/spring-expression-4.3.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.9.RELEASE/91dae64c4280093ad5fb4736a10913c9233479c1/spring-web-4.3.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.0.Final/3616bb87707910296e2c195dc016287080bba5af/jboss-logging-3.3.0.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/5e731d961297e5a07290bfaf3db1fbc8bbbf405a/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.20.0-GA/a9cbcdfb7e9f86fbc74d3afae65f2248bfbf82a0/javassist-3.20.0-GA.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/antlr/antlr/2.7.7/83cd2cd674a217ade95a4bb83a8a14f351f48bd0/antlr-2.7.7.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.spec.javax.transaction/jboss-transaction-api_1.2_spec/1.0.1.Final/4441f144a2a1f46ed48fcc6b476a4b6295e6d524/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/2.0.3.Final/bfc4d6257dbff7a33a357f0de116be6ff951d849/jandex-2.0.3.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.3.0/183407ff982e9375f1a1c4a51ed0a9307c598fc7/classmate-1.3.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/dom4j/dom4j/1.6.1/5d3ccc056b6f056dbf0dddfdf43894b9065a8f94/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.common/hibernate-commons-annotations/5.0.1.Final/71e1cff3fcb20d3b3af4f3363c3ddb24d33c6879/hibernate-commons-annotations-5.0.1.Final.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mchange/c3p0/0.9.5.2/5f86cb6130bc6e8475615ed82d5b5e6fb226a86a/c3p0-0.9.5.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mchange/mchange-commons-java/0.2.11/2a6a6c1fe25f28f5a073171956ce6250813467ef/mchange-commons-java-0.2.11.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
